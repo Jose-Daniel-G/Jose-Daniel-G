@@ -75,9 +75,8 @@ Total Experience: 6+ years
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=Jose-Daniel-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jose-Daniel-G&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-Daniel-G&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jose-Daniel-G&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
  
 <div>
